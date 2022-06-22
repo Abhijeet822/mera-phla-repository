@@ -1,3 +1,4 @@
 *.log
-/tyu/
+tyu/
 bitmap/ct2.xlsx
+sitar/
